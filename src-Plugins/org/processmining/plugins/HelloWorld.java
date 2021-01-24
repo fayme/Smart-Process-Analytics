@@ -19,6 +19,6 @@ public class HelloWorld {
                 email = "My e-mail address"
         )
         public static String helloWorld(PluginContext context) {
-                return "Hello World";
+                return "Hello in my World";
         }
 }

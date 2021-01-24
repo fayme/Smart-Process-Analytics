@@ -4,9 +4,9 @@ import org.processmining.contexts.uitopia.annotations.UITopiaVariant;
 import org.processmining.framework.plugin.PluginContext;
 import org.processmining.framework.plugin.annotations.Plugin;
 
-public class SMA {
+public class SPA {
 		@Plugin(
-				name = "SMA Plugin", 
+				name = "SPA Plugin", 
                 parameterLabels = {}, 
                 returnLabels = { "Hello world string" }, 
                 returnTypes = { String.class }, 
